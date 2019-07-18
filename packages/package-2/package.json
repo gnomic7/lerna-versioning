@@ -5,10 +5,13 @@
   "keywords": [],
   "author": "Rohit K Dhakal <rohit.k.dhakal@centene.com>",
   "license": "ISC",
-  "main": "lib/package-2.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
+  },
+  "dependencies": {
+    "@gnomic7/package-1": "1.1.1"
   },
   "files": [
     "lib"
