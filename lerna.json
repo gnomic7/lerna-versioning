@@ -16,7 +16,6 @@
         "**/yarn.lock",
         "**/test/**",
         "**/**.spec.js",
-        "**/lib/**",
         "**/node_modules/**"
       ]
     },
@@ -35,7 +34,6 @@
         "**/yarn.lock",
         "**/test/**",
         "**/**.spec.js",
-        "**/lib/**",
         "**/node_modules/**"
       ]
     }
