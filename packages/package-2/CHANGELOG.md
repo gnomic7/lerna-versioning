@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-2@1.4.2...@gnomic7/package-2@1.5.0) (2019-07-18)
+
+
+### Features
+
+* Use multiply instead of product ([545be0a](https://github.com/gnomic7/lerna-versioning/commit/545be0a))
+
+
+
+
+
 ## [1.4.2](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-2@1.4.1...@gnomic7/package-2@1.4.2) (2019-07-18)
 
 **Note:** Version bump only for package @gnomic7/package-2
