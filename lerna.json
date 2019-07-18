@@ -22,7 +22,7 @@
     "publish": {
       "conventionalCommits": true,
       "yes": true,
-      "skip-npm": true,
+      "skipNpm": true,
       "message": "chore(release): publish automatically",
       "ignoreChanges": [
         "*.md",
