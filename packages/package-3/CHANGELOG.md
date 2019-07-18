@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.0.2...@gnomic7/package-3@3.1.0) (2019-07-18)
+
+
+### Features
+
+* Remove unnecesary console.log ([df68462](https://github.com/gnomic7/lerna-versioning/commit/df68462))
+
+
+
+
+
 ## [3.0.2](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.0.1...@gnomic7/package-3@3.0.2) (2019-07-18)
 
 **Note:** Version bump only for package @gnomic7/package-3
