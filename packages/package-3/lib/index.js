@@ -1,7 +1,7 @@
 "use strict";
 
-module.exports = product;
+module.exports = multiply;
 
-const product = (...x) => {
+const multiply = (...x) => {
   return x.reduce((acc, val) => acc * val);
 };
