@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.1](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-2@1.6.0...@gnomic7/package-2@1.6.1) (2019-07-18)
+
+
+### Bug Fixes
+
+* Fixing use of undefined variable ([f9f6627](https://github.com/gnomic7/lerna-versioning/commit/f9f6627))
+
+
+
+
+
 # [1.6.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-2@1.5.0...@gnomic7/package-2@1.6.0) (2019-07-18)
 
 
