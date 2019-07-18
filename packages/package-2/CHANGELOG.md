@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-2@1.3.0...@gnomic7/package-2@1.4.0) (2019-07-18)
+
+
+### Bug Fixes
+
+* Pick the correct version of dependent package ([a723f68](https://github.com/gnomic7/lerna-versioning/commit/a723f68))
+
+
+### Features
+
+* Add lerna packages 1,3 as dependence for 2 ([3f3ec10](https://github.com/gnomic7/lerna-versioning/commit/3f3ec10))
+
+
+
+
+
 # [1.3.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-2@1.2.0...@gnomic7/package-2@1.3.0) (2019-07-18)
 
 

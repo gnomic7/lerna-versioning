@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.1](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.0.0...@gnomic7/package-3@3.0.1) (2019-07-18)
+
+
+### Bug Fixes
+
+* Pick the correct version of dependent package ([a723f68](https://github.com/gnomic7/lerna-versioning/commit/a723f68))
+
+
+
+
+
 # [3.0.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@2.0.0...@gnomic7/package-3@3.0.0) (2019-07-18)
 
 
