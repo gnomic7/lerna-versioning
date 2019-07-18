@@ -29,8 +29,14 @@
         "*.txt",
         "test/**",
         "codemods/**",
-        "# We ignore every JSON file, except for built-in-modules, built-ins and plugins defined in babel-preset-env/data.",
-        "@(!(built-in-modules|built-ins|plugins|package)).json"
+        "**/changelog.md",
+        "**/CHANGELOG.md",
+        "**/package-lock.json",
+        "**/yarn.lock",
+        "**/test/**",
+        "**/**.spec.js",
+        "**/lib/**",
+        "**/node_modules/**"
       ]
     }
   }
