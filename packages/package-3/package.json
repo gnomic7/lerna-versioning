@@ -5,6 +5,7 @@
   "keywords": [],
   "author": "Rohit K Dhakal <rohit.k.dhakal@centene.com>",
   "license": "ISC",
+  "private": true,
   "main": "lib/package-3.js",
   "directories": {
     "lib": "lib",
