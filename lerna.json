@@ -8,7 +8,7 @@
     "version": {
       "conventionalCommits": true,
       "yes": true,
-      "message": "chore(release): publish automatically",
+      "message": "chore(release): versioned automatically",
       "ignoreChanges": [
         "**/changelog.md",
         "**/CHANGELOG.md",
@@ -18,6 +18,19 @@
         "**/**.spec.js",
         "**/lib/**",
         "**/node_modules/**"
+      ]
+    },
+    "publish": {
+      "conventionalCommits": true,
+      "yes": true,
+      "message": "chore(release): publish automatically",
+      "ignoreChanges": [
+        "*.md",
+        "*.txt",
+        "test/**",
+        "codemods/**",
+        "# We ignore every JSON file, except for built-in-modules, built-ins and plugins defined in babel-preset-env/data.",
+        "@(!(built-in-modules|built-ins|plugins|package)).json"
       ]
     }
   }
