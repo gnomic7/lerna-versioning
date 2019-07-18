@@ -12,8 +12,8 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "@gnomic7/package-1": "1.1.1",
-    "@gnomic7/package-3": "2.0.0"
+    "@gnomic7/package-1": "^1.1.1",
+    "@gnomic7/package-3": "3.0.0"
   },
   "files": [
     "lib"
