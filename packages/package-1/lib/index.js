@@ -10,4 +10,9 @@ const sum = (...x) => {
   return x.reduce((acc, val) => acc + parseInt(val));
 };
 
-const minus = (x, y) => x - y;
+/**
+ * This function just returns the difference between x and y
+ * @param {int} x first parameter
+ * @param {int} y second parameter
+ */
+const minus = (x, y) => parseInt(x) - parseInt(y);
