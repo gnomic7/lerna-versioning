@@ -1,7 +1,9 @@
 "use strict";
 
-module.exports = sum;
+module.exports = { sum, minus };
 
-function sum(...x) {
+const sum = (...x) => {
   return x.reduce((acc, val) => acc + val);
-}
+};
+
+const minus = (x, y) => x - y;
