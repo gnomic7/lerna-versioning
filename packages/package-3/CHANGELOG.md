@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.4.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.3.1...@gnomic7/package-3@3.4.0) (2019-07-19)
+
+
+### Features
+
+* Remove unnecessary comment block ([7ed0de1](https://github.com/gnomic7/lerna-versioning/commit/7ed0de1))
+
+
+
+
+
 ## [3.3.1](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.3.0...@gnomic7/package-3@3.3.1) (2019-07-19)
 
 **Note:** Version bump only for package @gnomic7/package-3
