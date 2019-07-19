@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.3](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@2.2.2...@gnomic7/commons@2.2.3) (2019-07-19)
+
+
+### Bug Fixes
+
+* Fix typo in hello world ([7fabfad](https://github.com/gnomic7/lerna-versioning/commit/7fabfad))
+
+
+
+
+
 ## [2.2.2](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@2.2.1...@gnomic7/commons@2.2.2) (2019-07-19)
 
 **Note:** Version bump only for package @gnomic7/commons
