@@ -1,7 +1,2 @@
-module.exports = {
-  myTest: (x, y) => console.log(x, y),
-  helloWorld: () => `Hello World`,
-  greet: name => `Hi, ${name}`,
-  fullName: (first, last) => `${first} ${last}`,
-  hi: () => `hi`
-};
+const greet = name => `Hello ${name}`;
+module.exports = { greet };
