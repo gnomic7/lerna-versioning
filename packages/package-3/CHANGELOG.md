@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.3.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.2.0...@gnomic7/package-3@3.3.0) (2019-07-19)
+
+
+### Features
+
+* Add jsdoc for the package-3 function ([bd58dec](https://github.com/gnomic7/lerna-versioning/commit/bd58dec))
+
+
+
+
+
 # [3.2.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.1.0...@gnomic7/package-3@3.2.0) (2019-07-19)
 
 
