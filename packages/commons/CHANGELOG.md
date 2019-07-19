@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@2.0.0...@gnomic7/commons@2.1.0) (2019-07-19)
+
+
+### Features
+
+* Add new function helloWorld ([fc62af1](https://github.com/gnomic7/lerna-versioning/commit/fc62af1))
+
+
+
+
+
 # [2.0.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@1.1.0...@gnomic7/commons@2.0.0) (2019-07-19)
 
 
