@@ -1,6 +1,6 @@
 module.exports = {
   myTest: (x, y) => console.log(x, y),
-  helloWorld: () => `Hello world`,
+  helloWorld: () => `Hello World`,
   greet: name => `Hi, ${name}`,
   fullName: (first, last) => `${first} ${last}`
 };

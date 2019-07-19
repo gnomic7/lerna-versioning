@@ -10,6 +10,6 @@ describe("Commons", () => {
     expect(greet("John")).toBe("Hi, John");
   });
   test("Should display hello world message", () => {
-    expect(helloWorld()).toBe("Hello world");
+    expect(helloWorld()).toBe("Hello World");
   });
 });
