@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@4.0.0...@gnomic7/package-3@5.0.0) (2019-07-19)
+
+
+### chore
+
+* Remove unnecessary first param for multiply ([2e9e280](https://github.com/gnomic7/lerna-versioning/commit/2e9e280))
+
+
+### BREAKING CHANGES
+
+* There was an unnecessary param for multiply function
+
+
+
+
+
 # [4.0.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.4.0...@gnomic7/package-3@4.0.0) (2019-07-19)
 
 

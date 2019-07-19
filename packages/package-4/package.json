@@ -1,6 +1,6 @@
 {
   "name": "@gnomic7/package-4",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Rohit K Dhakal <rohit.k.dhakal@centene.com>",
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/gnomic7/lerna-versioning#readme",
   "dependencies": {
-    "@gnomic7/package-3": "^4.0.0"
+    "@gnomic7/package-3": "^5.0.0"
   }
 }
