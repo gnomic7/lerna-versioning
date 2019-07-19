@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-2@1.6.7...@gnomic7/package-2@2.0.0) (2019-07-19)
+
+
+### chore
+
+* This is a breaking change ([400fbce](https://github.com/gnomic7/lerna-versioning/commit/400fbce))
+
+
+### BREAKING CHANGES
+
+* A few of the useless functions are removed and so are the test cases
+
+
+
+
+
 ## [1.6.7](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-2@1.6.6...@gnomic7/package-2@1.6.7) (2019-07-19)
 
 **Note:** Version bump only for package @gnomic7/package-2
