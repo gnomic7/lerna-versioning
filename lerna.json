@@ -10,25 +10,8 @@
       "yes": true,
       "message": "chore(release): versioned automatically",
       "ignoreChanges": [
-        "**/changelog.md",
-        "**/CHANGELOG.md",
-        "**/package-lock.json",
-        "**/yarn.lock",
-        "**/test/**",
-        "**/**.spec.js",
-        "**/node_modules/**"
-      ]
-    },
-    "publish": {
-      "conventionalCommits": true,
-      "yes": true,
-      "skipNpm": true,
-      "message": "chore(release): publish automatically",
-      "ignoreChanges": [
         "*.md",
         "*.txt",
-        "test/**",
-        "codemods/**",
         "**/changelog.md",
         "**/CHANGELOG.md",
         "**/package-lock.json",
