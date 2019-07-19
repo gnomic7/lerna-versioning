@@ -2,5 +2,8 @@
   "name": "@gnomic7/commons",
   "version": "2.2.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
