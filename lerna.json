@@ -22,7 +22,6 @@
     "publish": {
       "conventionalCommits": true,
       "yes": true,
-      "createRelease": "github",
       "skipNpm": true,
       "message": "chore(release): publish automatically",
       "ignoreChanges": [
