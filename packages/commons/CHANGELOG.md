@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@2.1.0...@gnomic7/commons@2.2.0) (2019-07-19)
+
+
+### Features
+
+* Add displayName function to commons package ([bb6b0ba](https://github.com/gnomic7/lerna-versioning/commit/bb6b0ba))
+* Add greet function which takes name as param ([d487151](https://github.com/gnomic7/lerna-versioning/commit/d487151))
+
+
+
+
+
 # [2.1.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@2.0.0...@gnomic7/commons@2.1.0) (2019-07-19)
 
 
