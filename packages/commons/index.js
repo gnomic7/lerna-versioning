@@ -1,3 +1,3 @@
 module.exports = {
-  myTest: x => console.log(x)
+  myTest: (x, y) => console.log(x, y)
 };
