@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.3.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@2.2.3...@gnomic7/commons@2.3.0) (2019-07-19)
+
+
+### Bug Fixes
+
+* **commons:** Remove the try function which is not neessary ([8b56f58](https://github.com/gnomic7/lerna-versioning/commit/8b56f58))
+
+
+### Features
+
+* Add hi as a new funciton to commons package ([1e33b39](https://github.com/gnomic7/lerna-versioning/commit/1e33b39))
+* Add try as a new function to comons package ([b497974](https://github.com/gnomic7/lerna-versioning/commit/b497974))
+
+
+
+
+
 ## [2.2.3](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@2.2.2...@gnomic7/commons@2.2.3) (2019-07-19)
 
 
