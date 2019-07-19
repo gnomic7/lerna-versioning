@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.2](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-5@1.2.1...@gnomic7/package-5@1.2.2) (2019-07-19)
+
+**Note:** Version bump only for package @gnomic7/package-5
+
+
+
+
+
 ## [1.2.1](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-5@1.2.0...@gnomic7/package-5@1.2.1) (2019-07-19)
 
 **Note:** Version bump only for package @gnomic7/package-5
