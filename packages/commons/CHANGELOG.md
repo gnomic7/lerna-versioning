@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/commons@1.1.0...@gnomic7/commons@2.0.0) (2019-07-19)
+
+
+### chore
+
+* Adding breaking change ([e8c14c8](https://github.com/gnomic7/lerna-versioning/commit/e8c14c8))
+
+
+### BREAKING CHANGES
+
+* myTest funciton now accepts two params
+
+
+
+
+
 # 1.1.0 (2019-07-19)
 
 
