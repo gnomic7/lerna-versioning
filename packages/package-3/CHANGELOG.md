@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.0.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.4.0...@gnomic7/package-3@4.0.0) (2019-07-19)
+
+
+### chore
+
+* This is a breaking change ([6760bb2](https://github.com/gnomic7/lerna-versioning/commit/6760bb2))
+
+
+### BREAKING CHANGES
+
+* multiply function accepts two params
+
+
+
+
+
 # [3.4.0](https://github.com/gnomic7/lerna-versioning/compare/@gnomic7/package-3@3.3.1...@gnomic7/package-3@3.4.0) (2019-07-19)
 
 
