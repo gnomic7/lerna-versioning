@@ -1,0 +1,9 @@
+{
+  "name": "@gnomic7/calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "publish:new": "yarn publish"
+  },
+  "license": "MIT"
+}
