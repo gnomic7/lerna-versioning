@@ -18,7 +18,6 @@
     "url": "git+https://github.com/gnomic7/lerna-versioning.git"
   },
   "scripts": {
-    "publish:new": "yarn publish",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
