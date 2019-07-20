@@ -1,6 +1,6 @@
 {
   "name": "@gnomic7/calculator",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "main": "index.js",
   "scripts": {
     "publish:new": "yarn publish",
