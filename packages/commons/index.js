@@ -1,2 +1,3 @@
 const greet = name => `Hello ${name}`;
-module.exports = { greet };
+const sayHello = name => `Hi ${name}, how are you doing?`;
+module.exports = { greet, sayHello };

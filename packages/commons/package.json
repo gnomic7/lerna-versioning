@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "publish:new": "yarn publish"
+    "publish:new": "yarn publish",
+    "release:new": "standard-version"
   },
   "devDependencies": {
     "jest": "^24.8.0"
