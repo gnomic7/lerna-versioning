@@ -6,5 +6,8 @@
     "publish:new": "yarn publish",
     "release:new": "standard-version"
   },
+  "dependencies": {
+    "@gnomic7/commons": "4.0.0"
+  },
   "license": "MIT"
 }
